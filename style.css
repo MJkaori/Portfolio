@@ -157,7 +157,7 @@ header a, .navbar .container a {
   top: 50%;
   transform: translateY(-50%);
   text-align: center;
-  color: white;
+  color: black;
 }
 .home-content h1{
   font-size: 4.5rem;
